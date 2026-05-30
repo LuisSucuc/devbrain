@@ -299,14 +299,3 @@ service = UserService(MongoDatabase())
 | **L** | Liskov Substitution | Las subclases respetan el contrato del padre |
 | **I** | Interface Segregation | Interfaces pequeñas y específicas |
 | **D** | Dependency Inversion | Depender de abstracciones, no de concretos |
-
-
-
-# Littio
-Banking Core (Cerebro de Littio) Enfocado a backend. Clientes son clientes internos de la compañia. 
-
-- Hay un buen ritmo
-- 
-
-Equipos oreintados al consumidor final. Meter oro, wallet, USD, Euro. Plataforma son muy buenos. Datos.
-
