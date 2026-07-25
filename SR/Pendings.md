@@ -1,0 +1,2 @@
+- API Composition
+- TTL en respuesta de microservicios para cache sin sistema de cache
